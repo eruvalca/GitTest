@@ -10,3 +10,5 @@ Console.WriteLine("Emo el Toro");
 
 
 Console.WriteLine("Isaac sucks at COD and cant beat me ");
+Console.WriteLine("I just won the water gym badge");
+Console.WriteLine("Chupapi Muneno");
